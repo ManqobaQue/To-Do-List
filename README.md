@@ -10,9 +10,6 @@ Welcome to the To-Do List application! This project is designed to help users ma
 - Delete tasks that are no longer needed.
 - Simple and user-friendly graphical user interface (GUI).
 
-## Screenshots
-
-*Include screenshots of your application here to showcase its user interface.*
 
 ## Technologies Used
 
